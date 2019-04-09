@@ -1,0 +1,8 @@
+[
+    {
+        "content_type": "application/json",
+        "endpoint": "/mantep",
+        "source": "hehe.json",
+        "status_code": 200
+    }
+]
